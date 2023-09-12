@@ -1,0 +1,468 @@
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\efpt.config.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.exe
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.deps.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.runtimeconfig.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.pdb
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Humanizer.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfo.cs
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.McqExaminationSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.McqExaminationSystem.props
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.McqExaminationSystem.props
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.McqExaminationSystem.props
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\scopedcss\bundle\McqExaminationSystem.styles.css
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CopyComplete
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\refint\McqExaminationSystem.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.pdb
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.genruntimeconfig.cache
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\ref\McqExaminationSystem.dll
+C:\Users\admin\source\repos\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\efpt.config.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.exe
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.deps.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.runtimeconfig.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.pdb
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Humanizer.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfo.cs
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.McqExaminationSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.McqExaminationSystem.props
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.McqExaminationSystem.props
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.McqExaminationSystem.props
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\scopedcss\bundle\McqExaminationSystem.styles.css
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CopyComplete
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\refint\McqExaminationSystem.dll
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.pdb
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.genruntimeconfig.cache
+C:\Users\admin\Downloads\New folder\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\ref\McqExaminationSystem.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\efpt.config.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.exe
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.deps.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.runtimeconfig.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.pdb
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Humanizer.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfo.cs
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.McqExaminationSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.McqExaminationSystem.props
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.McqExaminationSystem.props
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.McqExaminationSystem.props
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\scopedcss\bundle\McqExaminationSystem.styles.css
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CopyComplete
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\refint\McqExaminationSystem.dll
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.pdb
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.genruntimeconfig.cache
+D:\ITI\14-Angular\Final-Project\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\ref\McqExaminationSystem.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\efpt.config.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.exe
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.deps.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.runtimeconfig.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.pdb
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Humanizer.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfo.cs
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.McqExaminationSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.McqExaminationSystem.props
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.McqExaminationSystem.props
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.McqExaminationSystem.props
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\scopedcss\bundle\McqExaminationSystem.styles.css
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CopyComplete
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\refint\McqExaminationSystem.dll
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.pdb
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.genruntimeconfig.cache
+D:\ITI\14-Angular\Finall-Project-ISA\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\ref\McqExaminationSystem.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.Development.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\appsettings.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\efpt.config.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.exe
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.deps.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.runtimeconfig.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.pdb
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Core.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Azure.Identity.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Humanizer.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.CodeDom.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.AssemblyReference.cache
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfoInputs.cache
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfo.cs
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CoreCompileInputs.cache
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.McqExaminationSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.McqExaminationSystem.props
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.McqExaminationSystem.props
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.McqExaminationSystem.props
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.build.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.development.json
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\scopedcss\bundle\McqExaminationSystem.styles.css
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CopyComplete
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\refint\McqExaminationSystem.dll
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.pdb
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.genruntimeconfig.cache
+D:\ITI\14-Angular\Project Last Working 19-7-2023\API\McqExaminationSystem\McqExaminationSystem\obj\Debug\net7.0\ref\McqExaminationSystem.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\appsettings.Development.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\efpt.config.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\appsettings.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.exe
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.deps.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.runtimeconfig.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\McqExaminationSystem.pdb
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Azure.Core.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Azure.Identity.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Humanizer.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.CodeDom.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.Memory.Data.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.AssemblyReference.cache
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfoInputs.cache
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.AssemblyInfo.cs
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CoreCompileInputs.cache
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cs
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.MvcApplicationPartsAssemblyInfo.cache
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.McqExaminationSystem.Microsoft.AspNetCore.StaticWebAssets.props
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.build.McqExaminationSystem.props
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.McqExaminationSystem.props
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.McqExaminationSystem.props
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.pack.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.build.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\staticwebassets.development.json
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\scopedcss\bundle\McqExaminationSystem.styles.css
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.csproj.CopyComplete
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\refint\McqExaminationSystem.dll
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.pdb
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\McqExaminationSystem.genruntimeconfig.cache
+D:\github projects\Examination-system-master\exam-system\Examination-System-API\McqExaminationSystem\obj\Debug\net7.0\ref\McqExaminationSystem.dll

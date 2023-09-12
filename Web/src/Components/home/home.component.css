@@ -1,0 +1,113 @@
+.button1{
+  background-color: transparent ;
+  color:black ;
+  border:5px solid #dedede;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 20px;
+  transition: all 1s;
+  margin-bottom: 70px;
+
+}
+.button1:hover{
+  background-color: black;
+  color:white;
+}
+.button2{
+  background-color: black ;
+  color:white ;
+  border:1px solid #dedede;
+  border-radius: 5px;
+  font-size: 18px;
+  padding: 20px;
+  transition: all 1s;
+  margin-bottom: 70px;
+
+}
+.button2:hover{
+  background-color: white;
+  color:black;
+}
+.co{
+    background-color: rgb(243,243,243);
+}
+
+.bttn{
+    background-color: navy;
+    color: white;
+    font-size: 1.5rem;
+
+}
+.bttn:hover{
+    background-color: rgb(220, 220, 250);
+    color: navy;
+    border: none;
+}
+
+
+.reviews{
+    background-color: rgb(243,243,243);
+}
+.line{
+    width: 200px;
+    height: 2px;
+    font-weight: bolder;
+    background-color: black;
+}
+.form-control {
+  border: none;
+  border-bottom: 2px solid black;
+  outline: none;
+  background-color: rgb(220,222,247);
+}
+.form{
+    background-color: rgb(220,222,247);
+    padding: 5rem;
+}
+.tt{
+   text-decoration: none;
+}
+.tex{
+    color:rgb(39, 39, 194);
+}
+
+
+.carousel-indicators button {
+  background-color: transparent;
+  border: 2px solid black;
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  margin: 10px;
+}
+
+.carousel-indicators .active {
+  background-color: black;
+  border-color: black;
+}
+.img{
+    width: 20rem;
+    height: 20rem;
+}
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  padding: 16px;
+  margin-top: -22px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 0 3px 3px 0;
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+a{
+  text-decoration-line: none;
+}

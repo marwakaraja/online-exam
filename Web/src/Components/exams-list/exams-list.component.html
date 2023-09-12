@@ -1,0 +1,18 @@
+<div class="exam mt-5">
+    <h1>اختباراتنا</h1>
+</div>
+
+<div class="card-deck m-5">
+  <div class="row text-center">
+    <div *ngFor="let exam of exams let i=index " class="card text-center  mx-auto shadow-lg p-3 mb-5  rounded" style="width: 25rem; height: 25rem;"[ngStyle]="{'background-color': cardColor[i] }" >
+      <div class="card-body">
+        <h1 class="card-title">{{exam.examName}}</h1>
+        <p class="card-text ">{{exam.examDescription}}</p>
+        <a href="#" class="btn btn-success"  [routerLink]="['/examQA',exam.examId]"
+        [routerLinkActive]="'.text-success'">بدء الاختبار</a>
+        
+      </div>
+      
+    </div>
+  </div>
+</div>

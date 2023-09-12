@@ -1,0 +1,46 @@
+.backImage {
+    height: 70vh;
+        background: no-repeat center center scroll;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+    
+    /*  */
+    /* vision section*/
+    
+    #vision img{
+        height: 250px;
+    }
+     .vision-header,   .team-header{
+        color:#282828; 
+    }
+    /* team section*/
+    .social-link {
+        width: 30px;
+        height: 30px;
+        border: 1px solid #ddd;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: #666;
+        border-radius: 50%;
+        transition: all 0.3s;
+        font-size: 0.9rem;
+    }
+    .back{
+        background-color: #eee;
+    }
+    .social-link:hover,
+    .social-link:focus {
+        background: #ddd;
+        text-decoration: none;
+        color: #555;
+    }
+    
+    .image {
+        height: 250px;
+        width: 250px;
+    
+    }
+
+   

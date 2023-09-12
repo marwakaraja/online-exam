@@ -1,0 +1,29 @@
+.radiocontainer{
+    background-color: #E7E9EB;
+    display: block;
+    position: relative;
+    padding: 10px 10px 10px 50px;
+    margin-bottom: 1px;
+    cursor: pointer;
+    font-size: 18px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    word-wrap: break-word;
+}
+.radiocontainer:hover{
+    background-color: #dcdcdc;
+
+}
+.checkedlabel{
+    background-color: #dcdcdc;
+}
+
+#passwordExam
+{
+    width: 25%;
+    border-color: blue red;
+    border-radius: 10px;
+    margin-left: 5%;
+}

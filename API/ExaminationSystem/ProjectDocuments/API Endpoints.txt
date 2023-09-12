@@ -1,0 +1,16 @@
+UserController Endpoints:
+- InsertUser(); // Done!
+- GetAllUsers(); // Done!
+
+ExamController Endpoints:
+- GetAllExams();
+- GetQuestionsByExamId();
+- GetUsersWithScoresByExamId();
+
+UserExamRelationController Endpoints:
+- InsertUserExamRelation();
+
+QuestionController Endpoints:
+- InsertQuestion();
+- UpdateQuestion();
+- DeleteQuestion(); // Real Deletion!

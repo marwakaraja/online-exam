@@ -1,0 +1,282 @@
+<section class="">
+      <div class="row align-items-center">
+        <div class="test d-flex">
+          <div class="col-md-5  text-center d-flex align-items-center justify-content-center">
+            <div class="p-5">
+              <h1 style="color: blue;" class="fw-bold">
+                 مرحباً بكم في موقع مدرسة بينباش 
+              </h1>
+              <br/>
+              <p>نحن نعتز بالتعليم ونسعى جاهدين لتقديم تجربة تعليمية مميزة لجميع الطلاب
+                <br>إذا كانت لديكم أي استفسارات فلا تترددوا في التواصل معنا
+              </p>
+              <div class="d-flex justify-content-center">
+               <!-- <a  [routerLink]="['/register']" class="mt-5 button1 me-3 mb-5 px-5">إنشاء حساب</a>-->
+                <a [routerLink]="['/login']" class="mt-5 button2 mb-5 px-5">تسجيل الدخول</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-7 ">
+            <div id="carouselExampleIndicators" class="carousel slide">
+              <div class="carousel-inner">
+
+                <div class="carousel-item active">
+                  <img src="assets/Images/slide3.jpg" alt="slide1" style="width:100%;">
+                </div>
+                <div class="carousel-item">
+                  <img src="assets/Images/slide2.jpg" alt="slide1" style="width:100%;">
+                </div>
+                <div class="carousel-item ">
+                  <img src="assets/Images/slide1.jpg" alt="slide1" style="width:100%;">
+                </div>
+               
+               
+              </div>
+              <div class="carousel-indicators rounded">
+                <button
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide-to="0"
+                  class="active rounded-circle"
+                  aria-current="true"
+                  aria-label="Slide 1"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide-to="1"
+                  class="rounded-circle"
+                  aria-label="Slide 2"
+                ></button>
+                <button
+                  type="button"
+                  data-bs-target="#carouselExampleIndicators"
+                  data-bs-slide-to="2"
+                  class="rounded-circle"
+                  aria-label="Slide 3"
+                ></button>
+              </div>
+            </div>
+          </div>
+        </div>
+    </div>
+  </section>
+
+  <!--subjects-->
+  <!--<section class="subjects">
+    <div class="container py-5">
+      <div class="row">
+        <div class="col-md-5">
+          <h2 class="py-2">Explore and expand your skills</h2>
+          <p>Build your skills.
+            Build your future</p>
+          <div class="py-3">
+          <a  [routerLink]="['/Exams']" class="mt-5 button2 mb-5 px-5">Start Quiz</a>
+          </div>
+        </div>
+        <div class="col-md-7 px-5">
+          <div class="row">
+            <div class="col-md-6 px-5">
+              <h2 class="fs-4">HTML</h2>
+              <div class="py-3">
+                <img src="assets/Images/html.png" />
+              </div>
+              <p>
+                HTML stands for Hyper Text Markup Language,HTML is the standard markup language for creating Web pages and describes the structure of a Web page
+              </p>
+            </div>
+            <div class="col-md-6 px-5">
+              <h2 class="fs-4">CSS</h2>
+              <div class="py-3">
+                <img src="assets/Images/css.png" />
+              </div>
+              <p>
+                CSS is the language we use to style an HTML document, CSS describes how HTML elements should be displayed.
+                This tutorial will teach you CSS from basic to advanced.
+              </p>
+            </div>
+            <div class="col-md-6 p-5">
+              <h2 class="fs-4">SQL</h2>
+              <div class="py-3">
+                <img src="assets/Images/sql.png" />
+              </div>
+              <p>
+                SQL is a standard language for storing, manipulating and retrieving data in databases.
+              </p>
+            </div>
+            <div class="col-md-6 p-5">
+              <h2 class="fs-4">Angular</h2>
+              <div class="py-3">
+                <img src="assets/Images/angular.png" />
+              </div>
+              <p>
+                Angular is a platform and framework for building single-page client applications using HTML and TypeScript.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!--reviews-->
+ <!--<section class="reviews p-5 mt-5">
+    <div>
+      <div class="row">
+        <div class="col-md-5 p-5">
+          <h2>Reviews</h2>
+          <p class="mt-3">
+            I'm a paragraph. Click here to add your own text and edit me.
+          </p>
+        </div>
+        <div class="col-md-7 p-5">
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-inner">
+              <div class="carousel-item active">
+                <p class="pt-2 pb-5 px-5 fs-4">
+                  “I'm a testimonial. Click to edit me and add text that says
+                  something nice about you and your services. Let your customers
+                  review you and tell their friends how great you are.”
+                </p>
+                <div class="mt-5 mx-5 line"></div>
+                <h5 class="mx-5">Lisa, Dina's mom</h5>
+              </div>
+              <div class="carousel-item">
+                <p class="py-2 pb-5 px-5 fs-4">
+                  “I'm a testimonial. Click to edit me and add text that says
+                  something nice about you and your services.”
+                </p>
+                <div class="mt-5 mx-5 line"></div>
+                <h5 class="mx-5">Dan, Sally's dad</h5>
+              </div>
+              <div class="carousel-item">
+                <p class="py-2 pb-5 px-5 fs-4">
+                  “I'm a testimonial. Click to edit me and add text that says
+                  something nice about you and your services. Let your customers
+                  review you and tell their friends how great you are.”
+                </p>
+                <div class="mt-5 mx-5 line"></div>
+                <h5 class="mx-5">Jason, Karen's dad</h5>
+              </div>
+            </div>
+            <div class="carousel-indicators rounded">
+              <button
+                type="button"
+                data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="0"
+                class="active rounded-circle"
+                aria-current="true"
+                aria-label="Slide 1"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="1"
+                class="rounded-circle"
+                aria-label="Slide 2"
+              ></button>
+              <button
+                type="button"
+                data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="2"
+                class="rounded-circle"
+                aria-label="Slide 3"
+              ></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!--form-->
+ <!-- <section class="form">
+    <div class="row py-5">
+      <div class="col-md-4">
+        <div class="mt-3">
+          <h3>
+            Contact Me &<br />
+            Let's Get Started
+          </h3>
+          <p>I'm a paragraph. Click here to add your own text and edit me.</p>
+        </div>
+      </div>
+      <div class="col-md-8">
+        <form>
+          <div class="row">
+            <div class="col-md-6">
+              <label for="First name" class="col-form-label col-form-label-lg"
+                >First Name</label
+              >
+              <input
+                type="text"
+                class="form-control"
+                aria-label="First name"
+              />
+            </div>
+            <div class="col-md-6">
+              <label for="Last Name" class="col-form-label col-form-label-lg"
+                >Last name</label
+              >
+              <input
+                type="text"
+                class="form-control"
+                aria-label="Last name"
+              />
+            </div>
+          </div>
+          <div class="mb-3">
+            <label for="Email" class="col-form-label col-form-label-lg"
+              >Email</label
+            >
+            <input type="email" class="form-control" id="Email" />
+          </div>
+          <div class="mb-3">
+            <label
+              for="exampleFormControlTextarea1"
+              class="col-form-label col-form-label-lg"
+              >Message</label
+            >
+            <textarea
+              class="form-control"
+              id="exampleFormControlTextarea1"
+              rows="3"
+            ></textarea>
+          </div>
+          <button class="btn btn-outline-dark b2">Submit</button>
+        </form>
+      </div>
+    </div>
+
+    <div class="row mt-5">
+      <div class="col-md-5">
+        <p class="fs-4">
+          <i class="bi bi-pc-display-horizontal tex"></i> OnLine Lesssons
+        </p>
+      </div>
+      <div class="col-md-7">
+        <div class="row tt">
+          <div class="col-md-4">
+            <dl>
+              <dd>About</dd>
+              <dd>Our Lessons</dd>
+              <dd>Assignments</dd>
+              <dd>Packages</dd>
+              <dd>Learning Tools</dd>
+            </dl>
+          </div>
+          <div class="col-md-4">
+            <dl>
+              <dd>info@mysite.com</dd>
+              <dd>123-456-7890</dd>
+            </dl>
+          </div>
+          <div class="col-md-4">
+            <dl>
+              <dd>@2035 by Online Lessons.</dd>
+              <dd>Api & Angular ItI</dd>
+            </dl>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> -->

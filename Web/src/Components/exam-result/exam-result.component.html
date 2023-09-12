@@ -1,0 +1,59 @@
+<div class=" text-center m-5">
+    <h1> {{exam.ExamName}} نتيجة الاختبار</h1>
+
+    <div class="container  justify-content-between">
+        <h4>الإجابات الصحيحة = <span style="color: green;">{{rightAnswers}} /{{totalQquestionNumber}}</span></h4>
+        <h4  >علامتك = <span style="color: green;">% {{scorePresentage}} </span></h4>
+    
+      </div>
+  <hr>
+    <table class="table table-hover">
+      
+            
+        <tbody>
+            <tr  class="table-warning">
+                <td scope="col">علامتك</td>
+                <td scope="row">{{totalscore}}</td>
+              </tr>
+              <tr class="table-primary">
+                <td scope="col">عدد الأسئلة الكلي</td>
+                <td>{{totalQquestionNumber}}</td>
+              </tr>
+            <tr class="table-secondary">
+                <td scope="col">عدد الإجابات الصحيحة</td>
+                <td>{{rightAnswers}}</td>
+            
+            </tr>
+            <tr class="table-success">
+                <td scope="col">عدد الإجابات غير الصحيحة</td>          
+                <td>{{wrongAnswers}}</td>
+            </tr>
+
+            <tr class="table-danger">
+                <td scope="col">عدد الأسئلة المحلولة</td>
+                <td>{{atmpedQAs}}</td>
+            </tr>
+         
+            <tr class="table-info">
+            <td scope="col">عدد الأسئلة غير المحلولة</td>
+            <td>{{unAatmpedQAs}}</td>
+            </tr>
+         
+        </tbody>
+      </table>
+
+      <div class="row justify-content-between">
+        <div class="col-md-6 text-md-left">
+        <!--  <button class="btn btn-success m-3" [routerLink]="['/examQA',examId]">
+            محاولة مرة أخرى
+          </button>-->
+        </div>
+        <div class="col-md-6 text-md-right">
+          <button class="btn btn-success m-3"  [routerLink]="['/Exams']">
+           العودة لصفحة الامتحانات
+          </button> 
+     
+
+
+
+</div>

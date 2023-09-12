@@ -1,0 +1,25 @@
+<table class="table table-responsive">
+    <thead class="thead-success">
+      <tr>
+        <th scope="col">اسم الطالب</th>
+        <th scope="col">العلامة</th>
+        <th scope="col">تاريخ التقديم</th>
+       
+      </tr>
+    </thead>
+    <tbody>
+      <tr   *ngFor="let result of exams">
+        
+        <td>{{result.fullName}}</td>
+        <td>{{result.examScore}}</td>
+        <td>{{result.examDateTime}}</td>
+       
+      </tr>
+      
+     
+    </tbody>
+   
+    
+  </table>
+  
+ 

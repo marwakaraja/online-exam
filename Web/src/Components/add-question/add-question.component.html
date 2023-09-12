@@ -1,0 +1,147 @@
+<div class="container text d-flex flex-column align-items-center">
+    <div class=" col-sm-5">
+        <h1 class="lead text-center"> إضافة سؤال</h1>
+        <hr>
+    </div>
+    <div class="col-sm-5">
+        <form action="post" [formGroup]="Questionform" (submit)="AddNewquestion($event)">
+            <div class="mb-3 ">
+                <label for="formGroupExampleInput" class="form-label">اكتب السؤال هنا</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" formControlName="question"
+                    placeholder="Question">
+                <ng-container *ngIf="getQuestion.touched">
+
+                    <div *ngIf="getQuestion.hasError('required')">
+                        <p class="text-danger"> Question is Required</p>
+                    </div>
+                    <div *ngIf="getQuestion.hasError('minlength')">
+                        <p class="text-danger"> Length Must be > 8 </p>
+                    </div>
+
+                </ng-container>
+
+            </div>
+            <div class="mb-3 ">
+                <label for="formGroupExampleInput" class="form-label">إجابة رقم 1</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" formControlName="answer1"
+                    placeholder="Answer">
+                <ng-container *ngIf="getAnswer1.touched">
+
+                    <div *ngIf="getAnswer1.hasError('required')">
+                        <p class="text-danger"> This answer is Required</p>
+                    </div>
+                </ng-container>
+            </div>
+            <div class="mb-3 ">
+                <label for="formGroupExampleInput" class="form-label">إجابة رقم 2</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" formControlName="answer2"
+                    placeholder="Answer">
+                <ng-container *ngIf="getAnswer2.touched">
+
+                    <div *ngIf="getAnswer2.hasError('required')">
+                        <p class="text-danger">This answer is Required</p>
+                    </div>
+                </ng-container>
+            </div>
+            <div class="mb-3 ">
+                <label for="formGroupExampleInput" class="form-label">إجابة رقم 3</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" formControlName="answer3"
+                    placeholder="Answer">
+                <ng-container *ngIf="getAnswer3.touched">
+
+                    <div *ngIf="getAnswer3.hasError('required')">
+                        <p class="text-danger"> This answer is Required</p>
+                    </div>
+                </ng-container>
+            </div>
+            <div class="mb-3">
+                <label for="formGroupExampleInput" class="form-label">إجابة رقم 4</label>
+                <input type="text" class="form-control" id="formGroupExampleInput" formControlName="answer4"
+                    placeholder="Answer">
+                <ng-container *ngIf="getAnswer3.touched">
+
+                    <div *ngIf="getAnswer4.hasError('required')">
+                        <p class="text-danger"> This answer is Required</p>
+                    </div>
+                </ng-container>
+            </div>
+            <div class="mb-3 d-flex justify-content-between">
+                <div>الإجابة الصحيحة هي :</div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1"
+                        formControlName="rigthAnswer" value="1">
+                    <label class="form-check-label" for="inlineRadio1">1</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2"
+                        formControlName="rigthAnswer" value="2">
+                    <label class="form-check-label" for="inlineRadio2">2</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3"
+                        formControlName="rigthAnswer" value="3">
+                    <label class="form-check-label" for="inlineRadio2">3</label>
+                </div>
+                <div class="form-check form-check-inline">
+                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio4"
+                        formControlName="rigthAnswer" value="4">
+                    <label class="form-check-label" for="inlineRadio2">4</label>
+                </div>
+
+            </div>
+            <ng-container *ngIf="getRightAnswer.touched">
+
+                <div *ngIf="getRightAnswer.hasError('required')">
+                    <p class="text-danger"> This answer is Required</p>
+                </div>
+            </ng-container>
+            <div class="d-flex  justify-content-end">
+                <button class="btn btn-dark " *ngIf="!falsyValue" (click)="savequestion()" > إضافة</button>
+                <button class="btn btn-success " *ngIf="falsyValue" (click)="saveAllChanges()"> تعديل</button>
+
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="container">
+    <h3 class="text-center"> الأسئلة في هذا الاختبار </h3>
+    <div class="container">
+        <div *ngFor="let ch of exam" class=" card text-center mt-1">
+            <div class="lead card-header">
+                {{ch.questionHeader}}
+            </div>
+            <div class="d-flex justify-content-around  align-items-center">
+                <div class="d-flex flex-column align-items-center ">
+                    <p>الاختيار الأول</p>
+                    <p> {{ch.questionFirstChoice}}</p>
+                </div>
+
+                <div class="d-flex flex-column align-items-center" >
+                    <p>الاختيار الثاني</p>
+                    <p> {{ch.questionSecondChoice}}</p>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <p>الاختيار الثالث</p>
+                    <p> {{ch.questionThirdChoice}}</p>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <p>الاختيار الرابع</p>
+                    <p> {{ch.questionFourthChoice}}</p>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <p>الإجابة الصحيحة</p>
+                    <p> {{ch.rightAnswer}}</p>
+                </div>
+                <div class="d-flex flex-column align-items-center">
+                    <div class="d-flex flex-column align-items-center">
+                        <button class="btn btn-success m-1" (click)="EditQuestion(ch.questionId)">تعديل</button>
+                        <button class="btn btn-danger m-1" (click)="DeleteQuestion(ch.questionId)">حذف</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+  
+</div>

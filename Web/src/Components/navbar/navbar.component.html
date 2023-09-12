@@ -1,0 +1,37 @@
+<nav class="navbar  p-2 bg-dark navbar-expand-lg border-bottom border-bottom-dark" data-bs-theme="dark">
+  <div class="container-fluid p-2">
+    <!--<a class="navbar-brand  " href="#">QUIZO</a>-->
+    <img id="logo" src="assets\Images\binbash.jpg" alt="logo">
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup"
+      aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+      <div class="navbar-nav ms-auto">
+
+        <a class="nav-link  active" aria-current="page" [routerLink]="['/Home']"
+          [routerLinkActive]=" 'text-success'">الصفحة الرئيسية</a>
+        <a class="nav-link active" [routerLink]="['/About']" [routerLinkActive]="'text-success'">حول</a>
+
+
+        <a class="nav-link active" [routerLink]="['/CreateExam']" [routerLinkActive]="'text-success'"
+          [hidden]="!isAdmin">إضافةاختبار</a>
+        <a class="nav-link active" [routerLink]="['/AdminExam']" [routerLinkActive]="'text-success'"
+          [hidden]="!isAdmin">إدارة الاختبارات</a>
+          <a class="nav-link active" [routerLink]="['/register']"  [hidden]="!isAdmin">إنشاء حساب</a>
+
+
+
+
+
+        <a class="nav-link active" [routerLink]="['/Exams']" [routerLinkActive]="'text-success'"
+          [routerLinkActiveOptions]="{exact:true}" [hidden]="!isUser">الاختبارات</a>
+        <a class="nav-link active" [routerLinkActive]="'text-success'" [routerLink]="['/login']" [hidden]="isLogged"> <i
+            class="fa-solid fa-user"></i>تسجيل الدخول</a>
+        <a class="nav-link active" [routerLinkActive]="'text-success'" [hidden]="!isLogged" (click)="signOut()"> <i
+            class="fa-solid fa-user"></i> تسجيل الخروج</a>
+       <!-- <a class="nav-link active" [routerLink]="['/register']" [hidden]="isLogged">إنشاء حساب</a>-->
+      </div>
+    </div>
+  </div>
+</nav>
